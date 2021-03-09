@@ -1,2 +1,0 @@
-# medium
-Medium article notebooks
